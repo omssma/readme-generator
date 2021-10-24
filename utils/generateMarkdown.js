@@ -3,9 +3,12 @@ function generateMarkdown(data) {
   return `
   ### ${data.title}
   htttp://github.com/${data.username}/${data.title}
-  
+
   ### Description
   ${data.description}
+
+  ## Video Demo
+  https://www.youtube.com/watch?v=xHGWMBOySPM
 
   ### Table of Cotents:
   * [Installation](#installation)
