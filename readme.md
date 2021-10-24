@@ -1,9 +1,12 @@
 
   ### readme-generator
   htttp://github.com/omssma/readme-generator
-  
+
   ### Description
   This project is concerned with creating professional readme files
+
+  ## Video Demo
+  https://www.youtube.com/watch?v=xHGWMBOySPM
 
   ### Table of Cotents:
   * [Installation](#installation)
@@ -16,11 +19,11 @@
 
   ### Installation:
   What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-  Need to have intenet access in you local mcahine 
+  Need to have intenet access in you local mcahine
 
   ### Usage:
   Provide instructions and examples for use. Include screenshots as needed.
-  Install nodejs, use npm, then use nodejs index.js
+   Install nodejs, use npm, then use nodejs index.js
 
   ### Credits
   List your collaborators, if any, with links to their GitHub profiles.
@@ -37,7 +40,7 @@
 
   ### Contributing:
   If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so. The Contributor Covenant is an industry standard, but you can always write your own.
-  By Commiting
+  By Committing
 
   ### Tests:
   None as of now
