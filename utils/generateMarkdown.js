@@ -3,7 +3,7 @@ function generateMarkdown(data) {
   return `
   ### ${data.title}
   htttp://github.com/${data.username}/${data.title}
-
+  
   ### Description
   ${data.description}
 
@@ -43,7 +43,7 @@ function generateMarkdown(data) {
 
   ### Tests:
   ${data.tests}
-  
+
   ### Questions:
   If you have any questions about this repo, please visit [GitHub](https://github.com/${data.username}) or contact ${data.author} at ${data.email}
 `;

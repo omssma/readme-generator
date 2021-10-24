@@ -12,43 +12,43 @@ const questions = [
   },
   {
     type: "input",
-    message: "What is a short description?",
+    message: "What is a short description of your project?",
     name: "description",
   },
   {
     type: "input",
-    message: "What is your author's name",
+    message: "What is the author's name?",
     name: "author",
   },
   {
     type: "input",
-    message: "What are the steps required to install",
+    message: "What are the steps required to install?",
     name: "install",
   },
   {
     type: "input",
-    message: "Provide instructions and examples",
+    message: "Provide instructions and examples.",
     name: "usage",
   },
   {
     type: "input",
-    message: "List the collaborators, such as links, profiles, tutorials, APIs",
+    message: "List the collaborators, such as links, profiles, tutorials, APIs.",
     name: "credits",
   },
   {
     type: "list",
     message: "What kind of license do you want?",
     name: "license",
-    choices: ["MIT", "APACHE", "ISC", "NONE"],
+    choices: ["MIT", "APACHE", "ISC", "GNU AGPLv3", "GNU GPLv3", "GNU LGPLv3", "Mozilla Public License 2.0", "Boost Software License 1.0", "NONE"],
   },
   {
     type: "input",
-    message: "List all the features",
+    message: "List all the features.",
     name: "features",
   },
   {
     type: "input",
-    message: "How to contribute",
+    message: "How to contribute.",
     name: "contribute",
   },
   {
@@ -58,12 +58,12 @@ const questions = [
   },
   {
     type: "input",
-    message: "What is your GitHub user name",
+    message: "What is your GitHub user name?",
     name: "username",
   },
   {
     type: "input",
-    message: "What is your email",
+    message: "What is your email?",
     name: "email",
   }
 ];
